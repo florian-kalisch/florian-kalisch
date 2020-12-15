@@ -1,4 +1,5 @@
-### Hi there 👋
+![vision](vision.svg)
+# Hi there 👋
 
 <!--
 **florian-kalisch/florian-kalisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
